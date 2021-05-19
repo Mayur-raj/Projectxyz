@@ -9,7 +9,7 @@ Scanner sc=new Scanner(System.in);
     
     public String AccOpen(int accountNo, String accountHolderName) {
 		
-		String Res1=("Account no. = "+accountNo+". Name = "+accountHolderName+".");
+		String Res1=("Mayur Rajput Account no. = "+accountNo+". Name = "+accountHolderName+".");
 		return Res1;
 	}
 
@@ -17,7 +17,7 @@ Scanner sc=new Scanner(System.in);
     
     public String InitialBal(int Balance) {
 
-		String  Res=("Initial balance = "+Balance);
+		String  Res=("Mayur Rajput Initial balance = "+Balance);
 		return Res;
 	}
 	
@@ -25,7 +25,7 @@ Scanner sc=new Scanner(System.in);
     
     public String Deposit(int DepositAmt) {
 
-		String Res=("Amount deposited = "+DepositAmt); 
+		String Res=("Mayur Rajput Amount deposited = "+DepositAmt); 
 		return Res;
 		
 	}
